@@ -1,9 +1,0 @@
-{
-  "name": "Duck Defender",
-  "short_name": "DuckDefender",
-  "display": "fullscreen",
-  "orientation": "landscape",
-  "start_url": ".",
-  "background_color": "#000000",
-  "theme_color": "#000000"
-}
